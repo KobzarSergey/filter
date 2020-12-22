@@ -1,5 +1,4 @@
 ||aa.google.com^
-||an.yandex.ru^
 ||adnet.pravda.com^
 ||adriver.ru^
 ||addthis.com^
