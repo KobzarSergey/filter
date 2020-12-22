@@ -11,7 +11,8 @@
 ||crashlytics.com^
 ||data.mistat.intl.xiaomi.com^
 ||doubleclick.*^
-||facebook.com^
+||facebook.*^
+||*.facebook.*^
 ||fb.com^
 ||fbcdn.*^
 ||go.trouter.skype.com^
