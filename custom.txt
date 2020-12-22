@@ -1,8 +1,8 @@
 ||aa.google.com^
 ||an.yandex.ru^
-||adnet.pravda.com^$
+||adnet.pravda.com^
 ||adriver.ru^
-||addthis.com^$
+||addthis.com^
 ||addthiscdn.com^
 ||app-measurement.com^
 ||msn.com^
