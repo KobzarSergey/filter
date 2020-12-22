@@ -5,6 +5,7 @@
 ||addthiscdn.com^
 ||app-measurement.com^
 ||msn.com^
+||baidu.com^
 ||bing.com^
 ||c.bigmir.net^
 ||crashlytics.com^
