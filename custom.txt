@@ -16,6 +16,7 @@
 ||fbcdn.*^
 ||go.trouter.skype.com^
 ||google-analytics.com^
+||googleadservices.com^
 ||googleoptimize.com^
 ||i.bigmir.net^
 ||id.google.com^
