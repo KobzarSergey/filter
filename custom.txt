@@ -31,7 +31,6 @@
 ||nexusrules.officeapps.live.com^
 ||odnoklassniki.ru^
 ||ok.ru^
-||pinterest.com^
 ||settings-win.data.microsoft.com^
 ||tiktok.*^
 ||twitter.com^
