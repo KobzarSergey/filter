@@ -13,6 +13,7 @@
 ||data.mistat.intl.xiaomi.com^
 ||dc.dqa.samsung.com^
 ||doubleclick.*^
+||eu.mclean.50union.com^
 ||facebook.*^
 ||fb.com^
 ||fbcdn.*^
@@ -22,6 +23,7 @@
 ||googleadservices.com^
 ||googleoptimize.com^
 ||i.bigmir.net^
+||i18n.mclean.50union.com^
 ||id.google.com^
 ||in.appcenter.ms^
 ||instagram.com^
@@ -40,8 +42,9 @@
 ||sapush.samsungosp.com^
 ||settings.data.microsoft.com^
 ||settings-win.data.microsoft.com^
+||telemetry.api.swiftkey.com^
 ||tiktok.*^
-||twitter.com^
+||twitter.*^
 ||userlocation.googleapis.com^
 ||vortex.data.microsoft.com^
 ||yadro.ru^
