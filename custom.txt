@@ -40,3 +40,8 @@
 ||yastatic.net^
 ||vkontakte.ru^
 ||vk.com^
+#
+||servicesupport.hicloud.com^
+||grs.dbankcloud.cn^
+||grs.dbankcloud.com^
+||metrics2.data.hicloud.com^
