@@ -31,6 +31,7 @@
 ||nexusrules.officeapps.live.com^
 ||odnoklassniki.ru^
 ||ok.ru^
+||pinterest.*^
 ||settings-win.data.microsoft.com^
 ||tiktok.*^
 ||twitter.com^
@@ -41,6 +42,5 @@
 ||vk.com^
 #
 ||servicesupport.hicloud.com^
-||grs.dbankcloud.cn^
-||grs.dbankcloud.com^
+||grs.dbankcloud.*^
 ||metrics2.data.hicloud.com^
