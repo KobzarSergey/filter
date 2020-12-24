@@ -17,6 +17,7 @@
 ||facebook.*^
 ||fb.com^
 ||fbcdn.*^
+||fir-auth-gms.firebaseapp.com^
 ||gld.push.samsungosp.com^
 ||go.trouter.skype.com^
 ||google-analytics.com^
@@ -40,6 +41,7 @@
 ||pinterest.*^
 ||s.w-x.co^
 ||sapush.samsungosp.com^
+||sdkconfig.ad.intl.xiaomi.com^
 ||settings.data.microsoft.com^
 ||settings-win.data.microsoft.com^
 ||telemetry.api.swiftkey.com^
