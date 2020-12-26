@@ -7,6 +7,7 @@
 ||app-measurement.com^
 ||baidu.com^
 ||bing.com^
+||sbixby.com^
 ||btms.samsungsemi.com^
 ||c.bigmir.net^
 ||crashlytics.com^
@@ -38,8 +39,10 @@
 ||nexusrules.officeapps.live.com^
 ||odnoklassniki.ru^
 ||ok.ru^
+||oneclient.sfx.ms^
 ||pinterest.*^
 ||s.w-x.co^
+||sbixby.com^
 ||sapush.samsungosp.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||settings.data.microsoft.com^
