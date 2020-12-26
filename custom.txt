@@ -38,8 +38,11 @@
 ||nexusrules.officeapps.live.com^
 ||odnoklassniki.ru^
 ||ok.ru^
+||oneclient.sfx.ms^
+||onedrive.live.com^
 ||pinterest.*^
 ||s.w-x.co^
+||sbixby.com^
 ||sapush.samsungosp.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||settings.data.microsoft.com^
