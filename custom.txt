@@ -2,7 +2,8 @@
 ||app.link^
 ||adnet.pravda.com^
 ||adriver.ru^
-||addthis*.com^
+||addthis.com^
+||addthiscdn.com^
 ||alive.github.com^
 ||api.samsungpositioning.com^
 ||app-measurement.com^
@@ -47,7 +48,6 @@
 ||sapush.samsungosp.com^
 ||settings.data.microsoft.com^
 ||settings-win.data.microsoft.com^
-||stats.wp.com^
 ||telemetry.api.swiftkey.com^
 ||tiktok.com^
 ||twitter.com^
