@@ -58,3 +58,8 @@
 ||servicesupport.hicloud.com^
 ||grs.dbankcloud.*^
 ||metrics2.data.hicloud.com^
+#
+||s0.wp.com^
+||i*.wp.com^
+||pixel.wp.com^
+||stats.wp.com^
