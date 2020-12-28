@@ -77,7 +77,4 @@
 ||servicesupport.hicloud.com^
 ||tsms-dre.platform.dbankcloud.com^
 #
-||s0.wp.com^
-||i*.wp.com^
-||pixel.wp.com^
 ||stats.wp.com^
