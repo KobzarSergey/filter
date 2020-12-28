@@ -1,8 +1,7 @@
 ||aa.google.com^
 ||adnet.pravda.com^
 ||adriver.ru^
-||addthis.com^
-||addthiscdn.com^
+||addthis*.com^
 ||alive.github.com^
 ||app-measurement.com^
 ||baidu.com^
