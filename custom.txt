@@ -33,6 +33,7 @@
 ||in.appcenter.ms^
 ||instagram.com^
 ||ip6.arpa^
+||itcua.disqus.com^
 ||liveinternet.ru^
 ||linkedin.com^
 ||licdn.com^
