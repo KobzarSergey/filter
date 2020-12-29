@@ -11,6 +11,7 @@
 ||bing.com^
 ||btms.samsungsemi.com^
 ||c.bigmir.net^
+||cdn.onthe.io^
 ||crashlytics.com^
 ||dc.dqa.samsung.com^
 ||doubleclick.com^
@@ -51,6 +52,7 @@
 ||stats.wp.com^
 ||telemetry.api.swiftkey.com^
 ||tiktok.com^
+||tt.onthe.io^
 ||twitter.com^
 ||userlocation.googleapis.com^
 ||vortex.data.microsoft.com^
