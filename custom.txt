@@ -48,6 +48,7 @@
 ||sapush.samsungosp.com^
 ||settings.data.microsoft.com^
 ||settings-win.data.microsoft.com^
+||stats.wp.com^
 ||telemetry.api.swiftkey.com^
 ||tiktok.com^
 ||twitter.com^
