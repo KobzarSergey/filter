@@ -1,4 +1,5 @@
 ||aa.google.com^
+||api.rb.sbixby.com^
 ||app.link^
 ||adnet.pravda.com^
 ||adriver.ru^
