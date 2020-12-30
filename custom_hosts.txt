@@ -54,7 +54,6 @@
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 stats.wp.com
-0.0.0.0 sun9-*.userapi.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 tiktok.com
 0.0.0.0 tt.onthe.io
