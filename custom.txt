@@ -22,9 +22,9 @@
 ||facebook.com^
 ||facebook.net^
 ||fb.com^
-||fb.net
+||fb.net^
 ||fbcdn.com^
-||fbcdn.net
+||fbcdn.net^
 ||fir-auth-gms.firebaseapp.com^
 ||gld.push.samsungosp.com^
 ||go.trouter.skype.com^
