@@ -7,11 +7,13 @@
 ||addthiscdn.com^
 ||alive.github.com^
 ||api.samsungpositioning.com^
+||apkmirror.disqus.com^
 ||app-measurement.com^
 ||baidu.com^
 ||bing.com^
 ||btms.samsungsemi.com^
 ||c.bigmir.net^
+||cdn.ampproject.org^
 ||cdn.onthe.io^
 ||crashlytics.com^
 ||dc.dqa.samsung.com^
@@ -52,6 +54,7 @@
 ||settings.data.microsoft.com^
 ||settings-win.data.microsoft.com^
 ||stats.wp.com^
+||sun9-*.userapi.com^
 ||telemetry.api.swiftkey.com^
 ||tiktok.com^
 ||tt.onthe.io^
