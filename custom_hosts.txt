@@ -1,12 +1,13 @@
 0.0.0.0 aa.google.com
-0.0.0.0 api.rb.sbixby.com
-0.0.0.0 app.link
-0.0.0.0 adnet.pravda.com
-0.0.0.0 adriver.ru
 0.0.0.0 addthis.com
 0.0.0.0 addthiscdn.com
+0.0.0.0 adnet.pravda.com
+0.0.0.0 adriver.ru
+0.0.0.0 adservice.google.com
 0.0.0.0 alive.github.com
 0.0.0.0 api.samsungpositioning.com
+0.0.0.0 api.rb.sbixby.com
+0.0.0.0 app.link
 0.0.0.0 apkmirror.disqus.com
 0.0.0.0 app-measurement.com
 0.0.0.0 baidu.com
@@ -19,6 +20,7 @@
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.net
+0.0.0.0 edp1.adriver.ru
 0.0.0.0 facebook.com
 0.0.0.0 facebook.net
 0.0.0.0 fb.com
@@ -46,6 +48,7 @@
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 odnoklassniki.ru
 0.0.0.0 ok.ru
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pinterest.com
 0.0.0.0 pinterest.net
 0.0.0.0 pinterest.ru
