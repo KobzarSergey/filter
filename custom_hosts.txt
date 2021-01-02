@@ -12,6 +12,9 @@
 0.0.0.0 apkmirror.disqus.com
 0.0.0.0 app-measurement.com
 0.0.0.0 baidu.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons5.gvt3.com
 0.0.0.0 bing.com
 0.0.0.0 btms.samsungsemi.com
 0.0.0.0 c.bigmir.net
@@ -46,6 +49,7 @@
 0.0.0.0 linkedin.com
 0.0.0.0 licdn.com
 0.0.0.0 mail.ru
+0.0.0.0 metimetech-com.cdn.ampproject.org
 0.0.0.0 msn.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusrules.officeapps.live.com
@@ -68,6 +72,7 @@
 0.0.0.0 twitter.com
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 www-androidpolice-com.cdn.ampproject.org
 0.0.0.0 widget.pushbullet.com
 0.0.0.0 yadro.ru
 0.0.0.0 yandex.ru
