@@ -6,6 +6,7 @@
 0.0.0.0 adriver.ru
 0.0.0.0 adservice.google.com
 0.0.0.0 alive.github.com
+0.0.0.0 an.yandex.ru
 0.0.0.0 api.samsungpositioning.com
 0.0.0.0 api.rb.sbixby.com
 0.0.0.0 app.link
@@ -22,6 +23,7 @@
 0.0.0.0 cdn.onthe.io
 0.0.0.0 counter.yadro.ru
 0.0.0.0 crashlytics.com
+0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 doubleclick.com
@@ -59,6 +61,7 @@
 0.0.0.0 mail.ru
 0.0.0.0 masterh7.adriver.ru
 0.0.0.0 metimetech-com.cdn.ampproject.org
+0.0.0.0 mc.yandex.ru
 0.0.0.0 mitv.tracking.intl.miui.com
 0.0.0.0 msn.com
 0.0.0.0 nexus.officeapps.live.com
