@@ -87,6 +87,7 @@
 0.0.0.0 stats.wp.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 thumbnails2.opera.com
 0.0.0.0 tiktok.com
 0.0.0.0 tt.onthe.io
 0.0.0.0 twitter.com
