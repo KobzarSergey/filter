@@ -37,6 +37,7 @@
 0.0.0.0 fbcdn.net
 0.0.0.0 fir-auth-gms.firebaseapp.com
 0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 fs.microsoft.com
 0.0.0.0 gld.push.samsungosp.com
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 grs.dbankcloud.com
@@ -51,6 +52,7 @@
 0.0.0.0 i18n.mclean.50union.com
 0.0.0.0 id.google.com
 0.0.0.0 in.appcenter.ms
+0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 instagram.com
 0.0.0.0 ip6.arpa
 0.0.0.0 itcua.disqus.com
@@ -81,8 +83,10 @@
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 slscr.update.microsoft.com
 0.0.0.0 stats.wp.com
 0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.mozilla.org
 0.0.0.0 tiktok.com
 0.0.0.0 tt.onthe.io
 0.0.0.0 twitter.com
