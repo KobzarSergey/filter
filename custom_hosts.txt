@@ -10,6 +10,7 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.samsungpositioning.com
 0.0.0.0 api.rb.sbixby.com
+0.0.0.0 app.adjust.com
 0.0.0.0 app.link
 0.0.0.0 apkmirror.disqus.com
 0.0.0.0 app-measurement.com
@@ -35,6 +36,7 @@
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.net
 0.0.0.0 edp1.adriver.ru
+0.0.0.0 eu.mclean.50union.com
 0.0.0.0 facebook.com
 0.0.0.0 facebook.net
 0.0.0.0 fb.com
