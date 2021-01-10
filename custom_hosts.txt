@@ -7,6 +7,7 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 alive.github.com
 0.0.0.0 an.yandex.ru
+0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.samsungpositioning.com
 0.0.0.0 api.rb.sbixby.com
@@ -23,6 +24,7 @@
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 bing.com
 0.0.0.0 btms.samsungsemi.com
+0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 cdn.ampproject.org
 0.0.0.0 cdn.onthe.io
