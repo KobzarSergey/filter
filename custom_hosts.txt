@@ -98,6 +98,7 @@
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 slscr.update.microsoft.com
+0.0.0.0 statistics.happymodapp.com
 0.0.0.0 stats.wp.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.mozilla.org
