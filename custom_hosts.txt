@@ -100,6 +100,7 @@
 0.0.0.0 slscr.update.microsoft.com
 0.0.0.0 statistics.happymodapp.com
 0.0.0.0 stats.wp.com
+0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 thumbnails.opera.com
