@@ -95,3 +95,4 @@
 ||mitv.tracking.intl.miui.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||tracking.intl.miui.com^
+||telemetry-in.battle.net^
